@@ -141,13 +141,13 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "24px"
             },
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_anchor": "header1-1",
@@ -156,7 +156,7 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/amep-2000x1333.png",
             "parallax": true,
@@ -173,7 +173,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>Aian &amp; Megha",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>Aian &amp; Megha",
           "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br><br><br><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"welcome.html#form1-30\" data-toolbar=\"-mbrBtnMove\">RSVP HERE<br></a>   "
         },
