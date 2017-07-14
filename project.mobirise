@@ -141,40 +141,41 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "center",
+              "text-align": "right",
               "font-size": "24px"
             },
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/amep-2000x1333.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
+              "url": "",
+              "rawUrl": "",
               "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
           "title": "Aian &amp; Megha",
-          "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"welcome.html#header2-7\" data-toolbar=\"-mbrBtnMove\">ENTER SITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"welcome.html#form1-30\" data-toolbar=\"-mbrBtnMove\">RSVP HERE<br></a>  "
+          "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br><br><br><br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"welcome.html#form1-30\" data-toolbar=\"-mbrBtnMove\">RSVP HERE<br></a>   "
         },
         {
           "_tags": [
@@ -205,11 +206,14 @@
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -235,7 +239,7 @@
           },
           "title": "Aian &amp; Megha",
           "text": "Aian and Megha met in college when they were both attending UIC for undergrad.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-n\" data-toolbar=\"-mbrBtnMove\">Meet the Wedding Party</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"welcome.html#msg-box8-n\" data-toolbar=\"-mbrBtnMove\">Meet the Wedding Party</a>"
         },
         {
           "_styles": {
@@ -255,7 +259,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/amep-2000x618.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -628,7 +632,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/amep-1000x405.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -686,10 +690,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raja-600x400.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Raj",
@@ -775,7 +783,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/amep-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rahul-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -791,7 +799,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/amep-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/keyur-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -807,10 +815,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/shy-600x400.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Shy",
