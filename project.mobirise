@@ -171,9 +171,9 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
-          "title": "Aian &amp; Megha",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>Aian &amp; Megha",
           "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br><br><br><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"welcome.html#form1-30\" data-toolbar=\"-mbrBtnMove\">RSVP HERE<br></a>   "
         },
