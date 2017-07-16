@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "welcome.html",
+    "currentPage": "index.html",
     "name": "Aian and Megha Wedding - June 2018",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "welcome.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Welcome to our Wedding Website",
