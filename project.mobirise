@@ -19,7 +19,10 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 117,
@@ -171,7 +174,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>Aian &amp; Megha",
           "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br><br><br><br><br>",
@@ -913,10 +916,10 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Mazumder/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x2922.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mehndi-banner-1000x315.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -924,11 +927,19 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.3"
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "text": "Evening of June 13, 2018<br>Patel Residence",
-          "title": "Mehndi"
+          "title": "Mehndi",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#f7da64"
+            }
+          }
         },
         {
           "_styles": {
@@ -936,7 +947,7 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#f7da64"
             }
           },
           "_tags": [
@@ -951,18 +962,18 @@
             "inverse": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Mazumder/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x2666.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/garba-banner-1000x274.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "Garba &amp; Sangeet",
@@ -981,22 +992,30 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pithi-banner-1000x500.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Morning of June 15, 2018<br>Patel and Mazumder Residences",
-          "title": "Grahshanti &amp; Pithi"
+          "title": "Grahshanti &amp; Pithi",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#f7da64"
+            }
+          }
         },
         {
           "_tags": [
