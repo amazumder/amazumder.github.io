@@ -416,9 +416,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #f7da64;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -500,6 +497,17 @@ h6,
 }
 #msg-box5-38 P {
   color: #ffffff;
+}
+#content8-39 .mbr-section-title,
+#content8-39 p {
+  text-align: right;
+  color: #fff;
+}
+#content8-39 P {
+  text-align: center;
+}
+#content8-39 .mbr-section-title {
+  text-align: center;
 }
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {

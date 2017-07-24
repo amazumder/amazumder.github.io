@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 119,
     "versionPublish": "4.0.12",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
@@ -174,7 +174,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>Aian &amp; Megha",
           "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br><br><br><br><br>",
@@ -197,11 +197,11 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -214,8 +214,8 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#232323",
             "overlayOpacity": "0.3"
           },
           "media": {
@@ -241,8 +241,48 @@
             }
           },
           "title": "Aian &amp; Megha",
-          "text": "Aian and Megha met in college when they were both attending UIC for undergrad.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"welcome.html#msg-box8-n\" data-toolbar=\"-mbrBtnMove\">Meet the Wedding Party</a>"
+          "text": "Aian and Megha met in college through mutual friends when they were both attending the University of Illinois at Chicago. &nbsp;It was Aian's 20th birthday and their mutual friend Siddhi brought Megha to his birthday party at Aian's apartment. &nbsp;Megha met Aian and over the next few days, they started talking through Facebook and AIM. &nbsp;Fast forward 8.5 years and Aian was at Navy Pier, down on one knee, asking Megha to marry him.<br><br>Since then, Megha went on to complete a degree in Health Systems Management and currently works at Presence Resurrection Medical Center in Chicago. &nbsp;Aian completed is degree at UIC in biological sciences and continued onto complete a second degree in electrical and biomedical engineering at Northern Illinois University.<br><br>After knowing each other for almost a decade, they are excited to finally celebrate the offiicial joining of both Patel and Mazumder families with all their friends and family.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"welcome.html#msg-box8-n\" data-toolbar=\"-mbrBtnMove\">The Proposal</a>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/proposal-009-1460x970.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "The Proposal",
+          "caption": "<p><b>Aian proposed to Megha on November 11, 2016.&nbsp;<br></b><span style=\"font-size: 1.07rem;\">Megha's birthday was the following week therefore Aian planned a surprise birthday party for all of Megha's friends and family at RAM Restaurant and Brewery in suburban Schaumburg. &nbsp;It was a surprise therefore Megha was not aware of this event.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br>That same night, their friend Piyali invited them to a banquet (through her work) that was said to be taking place in the evening at the Navy Pier Grand &nbsp;Ballroom. &nbsp;Megha, Aian, and Piyali arrived at Navy Pier an hour before the start of the banquet and they decided to take a ride on the ferris wheel because it was a cold and windy evening. &nbsp;Megha was immediately suspicious since Aian bought the ferris wheel tickets without conferring with her first. &nbsp; Many selfies and Snapchats were taken as they enjoyed the amazing Chicago skyline and the comfort of being inside a heated enclosure. &nbsp;Little did Megha know that her brother, Darp, Aian's sister, Ahona, and a few of her closest friends were hiding in the bushes down below freezing for the past hour. &nbsp;After the ferris wheel ride, Piyali received a phone call and randomly walked away. &nbsp;Megha was genuinely confused as to where she disappeared off to. &nbsp;Aian walked over to a nearby light pole and seemingly out of nowhere, picked up a ukulele . &nbsp;After singing a short song, he got down on one knee and asked the most important question he had ever asked. &nbsp;Megha responded, as anyone might expect, with a very loud...\"I KNEW IT!\" &nbsp;Eventually she did get around to saying yes as the hiding and shivering siblings and friends appeared out of the bushes. &nbsp;By this time, it was obvious that the banquet was all a ploy to get her to Navy Pier. &nbsp;Pictures were taken and then they all had a nice dinner at Il Porcellino before heading to the suburbs, where Megha thought her parents and cousins were waiting. &nbsp;Little did she know that there was another surprise coming and she wouldn't be the only one surprised.</span></p><p><span style=\"font-size: 1.07rem;\"><br>Fast forward an hour later, and her friends were anxiously waiting in Schaumburg for Megha to arrive at the restaurant. &nbsp;Due to traffic and some other quick stops, Aian and Megha were behind schedule. &nbsp;As they arrived at the restaurant, they were guided to the party room in the back. &nbsp;The doors opened and everyone yelled \"SURPRISE!\" &nbsp;Little did all the guests know, the surprise was for them. &nbsp;Megha, still confused, had to be told to show everyone her left hand. &nbsp;It took a few seconds for everyone to realize what had happened. &nbsp;(It wasn't a a birthday party.) &nbsp;To be fair, many guests had their suspicions. &nbsp;Many may have expected a proposal at the restaurant but no one expected Megha to walk in as an engaged woman. &nbsp;After the surprise, cake was cut, pictures were taken, liquor was consumed, and the shock of being engaged was finally starting to settle in.</span></p><p><span style=\"font-size: 1.07rem;\"><br>Over the next few months, wedding planning was in full swing and eventually, the wedding venue and date were set. &nbsp;<br></span><span style=\"font-size: 1.07rem;\">June 16, 2018 at Pearl Banquets in Roselle.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-39"
         },
         {
           "_styles": {
@@ -308,7 +348,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/amep-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bm1-600x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
