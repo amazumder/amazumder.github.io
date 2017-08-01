@@ -348,7 +348,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bridesmaids-sab-2-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/bridesmaids-sab-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
