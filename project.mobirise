@@ -288,6 +288,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -661,6 +664,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -917,6 +923,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -978,7 +987,8 @@
           "title": "Mehndi",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             "H2": {
               "color": "#f7da64"
@@ -988,7 +998,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "color": "#f7da64"
@@ -1054,7 +1065,8 @@
           "title": "Grahshanti &amp; Pithi",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             "H2": {
               "color": "#f7da64"
@@ -1159,7 +1171,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron0.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
