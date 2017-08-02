@@ -1171,7 +1171,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron0.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
