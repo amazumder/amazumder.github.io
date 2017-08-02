@@ -202,21 +202,21 @@
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/S8BSCJLTck8?rel=0&showinfo=0&autoplay=1&loop=1",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#232323",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -1171,7 +1171,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron0.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
