@@ -1,6 +1,6 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -416,6 +416,14 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #f7da64;
 }
+#header1-3b .mbr-section-lead {
+  text-align: center;
+  font-size: 24px;
+}
+#header1-3b .mbr-section-title {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -483,14 +491,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header1-1 .mbr-section-lead {
-  text-align: center;
-  font-size: 24px;
-}
-#header1-1 .mbr-section-title {
-  font-family: 'Lora', serif;
-  text-align: center;
 }
 #msg-box5-38 H3 {
   color: #ffffff;
