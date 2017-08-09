@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 120,
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.1.2",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -97,10 +97,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -123,7 +123,7 @@
               "background": "#28324e"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -143,7 +143,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             }
           },
           "_name": "menu",
@@ -162,7 +162,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "css": "'Lora', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
