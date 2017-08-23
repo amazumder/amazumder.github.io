@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 120,
-    "versionPublish": "4.1.2",
+    "versionPublish": "4.1.7",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -201,7 +201,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "40",
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -243,7 +243,7 @@
             }
           },
           "title": "Aian &amp; Megha",
-          "text": "Aian and Megha met in college while they were both attending the University of Illinois at Chicago. &nbsp;It was Aian's 20th birthday and their mutual friend (Siddhi) brought Megha to his birthday party at Aian's apartment. &nbsp;Megha met Aian and over the next few days, they started talking through Facebook and AIM. &nbsp;Fast forward 8.5 years and Aian was at Navy Pier, down on one knee, asking Megha to marry him.<br><br>Since UIC, Megha went on to complete a degree in Health Systems Management and currently works at Presence Resurrection Medical Center in Chicago. &nbsp;Aian completed is degree at UIC in biological sciences and continued onto complete a second degree in electrical and biomedical engineering at Northern Illinois University.<br><br>After knowing each other for almost a decade, they are excited to finally celebrate the offiicial joining of both Patel and Mazumder families with all their friends and family.&nbsp;",
+          "text": "Aian and Megha met in college while they were both attending the University of Illinois at Chicago. &nbsp;It was Aian's 20th birthday and their mutual friend, Siddhi, brought Megha to his birthday party at Aian's apartment. &nbsp;Megha met Aian and over the next few days, they started talking through Facebook and AIM. &nbsp;Fast forward 8.5 years and Aian was at Navy Pier, down on one knee, asking Megha to marry him.<br><br>Since UIC, Megha went on to complete a degree in Health Systems Management and currently works at Presence Resurrection Medical Center in Chicago. &nbsp;Aian completed is degree at UIC in biological sciences and continued onto complete a second degree in electrical and biomedical engineering at Northern Illinois University.<br><br>After knowing each other for almost a decade, they are excited to finally celebrate the offiicial joining of both Patel and Mazumder families with all their friends and family.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"welcome.html#msg-box8-n\" data-toolbar=\"-mbrBtnMove\">The Proposal</a>"
         },
         {
@@ -777,7 +777,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/raja-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/raj-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
