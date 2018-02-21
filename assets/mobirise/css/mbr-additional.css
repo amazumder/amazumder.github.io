@@ -1,6 +1,6 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -423,6 +423,43 @@ h6,
 #header1-3b .mbr-section-title {
   font-family: 'Lora', serif;
   text-align: center;
+  font-size: 72px;
+}
+#msg-box8-2s .mbr-section-title,
+#msg-box8-2s p {
+  color: #fff;
+}
+#msg-box8-2s .mbr-section-title {
+  font-size: 46px;
+}
+#msg-box1-2t H3 {
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box1-2t H2 {
+  color: #f7da64;
+}
+#msg-box2-2u .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+}
+#msg-box2-2u .mbr-section-subtitle {
+  color: #f7da64;
+}
+#msg-box1-2v H3 {
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box1-2v H2 {
+  color: #f7da64;
+}
+#msg-box5-2z P {
+  text-align: right;
+  color: #ffffff;
+}
+#msg-box5-2z H3 {
+  text-align: right;
+  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -552,43 +589,4 @@ h6,
 }
 #features3-36 H5 {
   color: #7e9b9f;
-}
-#msg-box8-2s .mbr-section-title,
-#msg-box8-2s p {
-  color: #fff;
-}
-#msg-box8-2s .mbr-section-title {
-  font-size: 46px;
-}
-#msg-box1-2t H3 {
-  color: #ffffff;
-  font-size: 36px;
-}
-#msg-box1-2t H2 {
-  color: #f7da64;
-}
-#msg-box2-2u .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
-}
-#msg-box2-2u .mbr-section-subtitle {
-  color: #f7da64;
-}
-#msg-box1-2v H3 {
-  color: #ffffff;
-  font-size: 36px;
-}
-#msg-box1-2v H2 {
-  color: #f7da64;
-}
-#msg-box5-2z P {
-  text-align: right;
-  color: #ffffff;
-}
-#msg-box5-2z H3 {
-  text-align: right;
-  color: #ffffff;
-}
-#form1-30 .form-control-label {
-  color: #232323;
 }
