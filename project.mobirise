@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 126,
+    "uniqCompNum": 127,
     "versionPublish": "4.5.4",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
@@ -87,7 +87,7 @@
           },
           "title": "<br><br><br>Aian &amp; Megha",
           "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br>Please stay tuned the day of the wedding for a live stream for all our friends and families abroad who could not attend the wedding in person",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/channel/UCD5e2evD45DjRbT6jQ1wLfg/videos\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LIVE STREAM (coming soon)<br></a>    "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/channel/UCD5e2evD45DjRbT6jQ1wLfg/live\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LIVE STREAM (click here!)<br></a>    "
         },
         {
           "_styles": {
