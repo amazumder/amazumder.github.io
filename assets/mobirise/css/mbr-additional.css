@@ -418,12 +418,15 @@ h6,
 }
 #header1-3b .mbr-section-lead {
   text-align: center;
-  font-size: 24px;
+  font-size: 18px;
 }
 #header1-3b .mbr-section-title {
   font-family: 'Lora', serif;
   text-align: center;
   font-size: 72px;
+}
+#header1-3b .mbr-section-lead B {
+  font-size: 22px;
 }
 #msg-box8-2s .mbr-section-title,
 #msg-box8-2s p {

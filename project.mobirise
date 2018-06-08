@@ -53,13 +53,16 @@
           "_styles": {
             ".mbr-section-lead": {
               "text-align": "center",
-              "font-size": "24px"
+              "font-size": "18px"
             },
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
               "font-size": "72px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "22px"
             }
           },
           "_anchor": "header1-3b",
@@ -86,7 +89,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br><br><br>Aian &amp; Megha",
-          "text": "<b>June 16, 2018<br></b>Pearl Banquets<br>Roselle, IL<br><br>Please stay tuned the day of the wedding for a live stream for all our friends and families abroad who could not attend the wedding in person",
+          "text": "<b>June 16, 2018<br>Pearl Banquets<br>Roselle, IL</b><br><br>Please tune in the day of the wedding for a live stream for all our friends and families abroad who could not attend the wedding in person. We apologize in advance for any technical difficulties. &nbsp;<br>Please refresh periodically as needed. &nbsp;The videos will be available for viewing after livestreaming has ended.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/channel/UCD5e2evD45DjRbT6jQ1wLfg/live\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LIVE STREAM (click here!)<br></a>    "
         },
         {
