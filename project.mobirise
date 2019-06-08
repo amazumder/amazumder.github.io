@@ -26,12 +26,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 127,
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.10.3",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -62,7 +63,7 @@
               "font-size": "72px"
             },
             ".mbr-section-lead B": {
-              "font-size": "22px"
+              "font-size": "16px"
             }
           },
           "_anchor": "header1-3b",
@@ -89,8 +90,8 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br><br><br>Aian &amp; Megha",
-          "text": "<b>June 16, 2018<br>Pearl Banquets<br>Roselle, IL</b><br><br>Please tune in the day of the wedding for a live stream for all our friends and families abroad who could not attend the wedding in person. We apologize in advance for any technical difficulties. &nbsp;<br>Please refresh periodically as needed. &nbsp;The videos will be available for viewing after livestreaming has ended.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/channel/UCD5e2evD45DjRbT6jQ1wLfg/live\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LIVE STREAM (click here!)<br></a>    "
+          "text": "<b>June 16, 2018<br>Pearl Banquets<br>Roselle, IL</b><br>Thank you everyone for your wishes and hoped you enjoyed the wedding festivities!<br>We appreciate the love and support from each and every one of you!<br>Please click the button below to view our wedding highlight video:&nbsp;<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vimeo.com/311997877\" data-toolbar=\"-mbrBtnMove\">Wedding Highlight Video<br></a>    "
         },
         {
           "_styles": {
