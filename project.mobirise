@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 128,
     "versionPublish": "4.10.3",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-1.png",
     "noImageResize": "",
@@ -74,7 +74,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-banner-1320x880.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/aian-megha-20180616-083655-c1-1000x666.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -90,8 +90,102 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br><br><br>Aian &amp; Megha",
-          "text": "<b>June 16, 2018<br>Pearl Banquets<br>Roselle, IL</b><br>Thank you everyone for your wishes and hoped you enjoyed the wedding festivities!<br>We appreciate the love and support from each and every one of you!<br>Please click the button below to view our wedding highlight video:&nbsp;<br>",
+          "text": "<b>June 16, 2018<br>Pearl Banquets<br>Roselle, IL</b><b><br></b><br><br>Thank you everyone for your wishes and hoped you enjoyed the wedding festivities!<br>We appreciate the love and support from each and every one of you!<br>Please click the button below to view our wedding highlight video:&nbsp;<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vimeo.com/311997877\" data-toolbar=\"-mbrBtnMove\">Wedding Highlight Video<br></a>    "
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180613-190518-c1-1000x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180613-190518-c1-1000x666-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180614-180836-c3-1000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180614-180836-c3-1000x1498-800x1198.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180616-083655-c1-1000x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180616-083655-c1-1000x666-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180616-182711-c1-2-666x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180616-182711-c1-2-666x1000-666x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180616-182959-c1-1000x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180616-182959-c1-1000x666-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aian-megha-20180616-184806-c2-2-1000x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aian-megha-20180616-184806-c2-2-1000x666-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3j"
         },
         {
           "_styles": {
@@ -448,7 +542,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#28324e",
             "fontSize": "1",
